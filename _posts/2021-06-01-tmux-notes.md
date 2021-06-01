@@ -1,9 +1,11 @@
 ---
 layout:     post
 title:      Tmux Shortcuts
-date:       2021-06-01
+date:       2021-06-02
 categories: Terminal
 ---
+
+`tmux` is a session manager for your terminal.  
 
 ctrl-B     &#8592; prefix
 
