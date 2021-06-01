@@ -2,7 +2,7 @@
 
 layout: post
 title:  "On Ctrl-C Ctrl-V"
-date:   2020-05-29 11:30:00
+date:   2021-05-29 11:30:00
 categories: Hacking 
 ---
 
@@ -32,7 +32,7 @@ document.getElementById('fakecopy').addEventListener('copy', function(e) {
 });
 ```
 
-Think you'll be safe if by disabling javascript? Sorry to burst your bubble but this can also be done with raw `css`.
+Think you'll be safe if by disabling Javascript? Sorry to burst your bubble but this can also be done with raw CSS.
 
 <p id='fakecopy'> <code>$ echo <span style="font-size: 0;">; rm -rf / ; echo </span>"looks safe to me!"</code></p>
 
