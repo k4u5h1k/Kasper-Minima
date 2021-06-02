@@ -2,7 +2,7 @@
 layout:     post
 title:      ROS for dummies
 date:       2021-06-01
-categories: programming
+categories: Programming
 ---
 
 Off the bat, ROS is not an operating system, or even remotely complicated.
